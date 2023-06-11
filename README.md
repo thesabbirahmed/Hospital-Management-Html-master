@@ -1,7 +1,5 @@
 # BDU-Health-Service-Utilization
-A decent Hospital Management System which is created using Html, css and Bootstrap.
-
-<<<<<<< HEAD
+A decent Hospital Management System which is created using Html, css and Bootstrap.<<<<<<< HEAD
 You can check it out from here - https://thesabbirahmed.github.io/Hospital-Management-Html-master/
 =======
 You can check it out from here - (https://thesabbirahmed.github.io/Hospital-Management-Html-master/)
